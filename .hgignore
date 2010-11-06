@@ -1,0 +1,11 @@
+.*\.pyc
+.*\.egg
+.*\.so
+.dir-locals.el
+^\.tox
+\.DS_Store$
+^build/
+^TAGS
+^\.ropeproject/
+\.DS_Store$
+~$
