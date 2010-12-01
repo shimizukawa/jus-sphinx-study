@@ -7,13 +7,8 @@
 
 .. toctree::
 
+   what_is_sphinx
    viable_sphinx/index
-
-Sphinxとは
-============
-
-Sphinxと他のツールの比較
-=========================
 
 Sphinxコミュニティー
 =====================
