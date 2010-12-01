@@ -97,7 +97,7 @@ photo http://www.flickr.com/photos/stompy/11300916/ CC BY-NC by Abizern
 
 プレーンテキストなので、ツールを使って、差分をきれいに見ることが可能です。SVNでもgitでもhgでも、バージョン管理をしているのであれば、その環境に合わせることができます。ソースコードと一緒に入れて、同じ環境下でバージョン管理を行い、変更情報を合わせていくのがおすすめです。
 
-.. image:: images/tuna.jpg
+.. image:: images/tuna2.jpg
    :width: 450pt
 
 photo http://www.flickr.com/photos/18261299@N00/4472408386/ CC BY-SA by sweet_redbird
