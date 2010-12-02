@@ -178,7 +178,7 @@ htmlhelp_basename = 'JUSSphinxStudydoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'JUSSphinxStudy.tex', u'JUS Sphinx Study Documentation',
+  ('index', 'JUSSphinxStudy.tex', u'ドキュメントを作りたくなってしまう 　魔法のツールSphinx',
    u'Sphinx-users.jp', 'manual'),
 ]
 
@@ -205,7 +205,13 @@ latex_documents = [
 # If false, no module index is generated.
 #latex_domain_indices = True
 
+latex_docclass = {"manual":"jreport"}
 
+latex_elements = {
+    "papersize": "a4paper",
+    "pointsize": "12pt",
+    "classoptions": ", dvipdfm",
+}
 # -- Options for manual page output --------------------------------------------
 
 # One entry per manual page. List of tuples

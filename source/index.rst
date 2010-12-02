@@ -3,12 +3,11 @@
 =======================================================
 
 
-.. contents::
-
 .. toctree::
 
    what_is_sphinx
    viable_sphinx/index
-
-
+   howto 
+   sample
+   zadan
 
